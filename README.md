@@ -6,7 +6,7 @@ The author is still learning HTML, CSS and JavaScript.
 So this website will update slowly.
 
 # changeLog
-See at (./docs/changeLog.md)
+See at [changeLog](./docs/changeLog.md)
 
 # Notice
 If you want to help me of this project, you can do:
